@@ -1,5 +1,6 @@
 # これはコメント
 echo "What is your name?"
+# var は再代入できる変数
 var name: string = readLine(stdin)
 if name == "":
  echo "You lost your name?"
