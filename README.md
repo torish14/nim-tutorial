@@ -10,6 +10,12 @@
 
 `nim c -r file.nim`
 
+### Auto Build on Save
+
+- `cmd + shift + p`
+- `enter Task: Open User Tasks（create task.json）`
+- `edit it`
+
 ## Format Indent
 
 ### Format Single File
