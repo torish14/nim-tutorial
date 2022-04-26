@@ -27,7 +27,7 @@
 - `nimble init`
 - `touch run_pretty.nimble`
 - `edit it`
-- `mkdir util/pretty_files.nim`
-- `touch pretty_files.nim`
+- `mkdir util`
+- `touch util/pretty_files.nim`
 - `edit it`
 - `nimble pretty`
