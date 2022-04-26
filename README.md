@@ -25,7 +25,7 @@
 ### Format All File
 
 - `nimble init`
-- `touch run_pretty_.nimble`
+- `touch run_pretty.nimble`
 - `edit it`
 - `mkdir util/pretty_files.nim`
 - `touch pretty_files.nim`
